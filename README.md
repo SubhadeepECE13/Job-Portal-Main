@@ -69,9 +69,9 @@ Likely manages user accounts, job listings, and overall platform health.
 ''
 2. Install Dependencies: npm install
 3. Start the frontend: cd frontend
-npm run dev
-4. start the backend: npm install
-npm run dev
+4. npm run dev
+5. start the backend: npm install
+6. npm run dev
 
 
 *****
