@@ -77,5 +77,6 @@ Likely manages user accounts, job listings, and overall platform health.
 *****
 You have to change the MongodB URI in the .env file. You can use your localhost url of MongodB. After starting the server it will connect the db and you can see the project.
 
-And I have added the api keys of Cloudinary so you can easily use this project. 
+And you have to change the CLOUD_NAME ,API_KEY ,API_SECRET of Cloudinary in the .env file. After changing that tou will be able to ses the all functions of the project. And you have to give a profile pic when creating a new user(student,rectuiter).
+
 
