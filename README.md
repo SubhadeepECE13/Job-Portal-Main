@@ -77,3 +77,5 @@ Likely manages user accounts, job listings, and overall platform health.
 *****
 You have to change the MongodB URI in the .env file. You can use your localhost url of MongodB. After starting the server it will connect the db and you can see the project.
 
+And I have added the api keys of Cloudinary so you can easily use this project. 
+
